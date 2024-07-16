@@ -11,3 +11,31 @@
 ul {
   list-style: none;
 }
+body {
+  font-family: Arial, sans-serif;
+}
+
+#github-form {
+  margin-bottom: 20px;
+}
+
+#github-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+  width: 300px;
+}
+
+img {
+  display: block;
+  margin-bottom: 10px;
+}
